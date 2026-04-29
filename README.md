@@ -11,3 +11,5 @@ A multi-agent system for:
 pip install -r requirements.txt
 python main.py --input data.xlsx
 ```
+
+A multi-agent scientific visualization system for automated data parsing, plotting, and analysis generation.
